@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="./css/style.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   <style>@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
-
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 * {
   margin: 0;
   padding: 0;
